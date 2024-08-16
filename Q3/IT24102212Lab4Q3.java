@@ -21,3 +21,4 @@ public class IT24102212Lab4Q3 {
         input.close();
     }
 }
+
